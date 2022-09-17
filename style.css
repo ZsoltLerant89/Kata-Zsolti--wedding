@@ -79,7 +79,7 @@
 =============================*/
 
 .cover {
-    background: url("assests/k-zs-wedding-landing-cover.jpg") no-repeat 70% center/cover;
+    background: url("assests/k-zs-wed.jpg") no-repeat 70% center/cover;
     display: table;
     text-align: center;
     height: 130vh;
@@ -138,7 +138,7 @@
   @media (min-width: 768px) {
 
     .cover {
-      background: url('assests/k-zs-wedding-landing-cover.jpg') no-repeat center/cover;
+      background: url('assests/k-zs-wed.jpg') no-repeat center/cover;
     }
   
   }
